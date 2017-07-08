@@ -1,5 +1,6 @@
 #---------------------------------
 # Author: Harith Neralla
+# Inspired by natelandau's .bash_profile
 #----------------------------------
 
 # For typos
